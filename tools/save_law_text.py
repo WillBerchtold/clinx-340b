@@ -12,7 +12,7 @@ the saved text. This script exists so anyone can make a saved text again and com
 
 The tool gives its own name on every request, ``ClinX Open Data Reader``, with the address
 of the page that explains how ClinX reads public files. A site that refuses a plain fetch
-under that name is read by a person in a browser and saved with ``--from-file``.
+under that name is opened in a browser by Claude, read there and saved with ``--from-file``.
 
 What is changed on the way, and nothing else:
 

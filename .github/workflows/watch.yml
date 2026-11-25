@@ -1,6 +1,6 @@
 # Looks every day at the states' source pages (the list is watch/sources.csv) and says when a
 # list of reports changed. It saves what it saw under watch/seen/ and opens an issue. It never
-# changes the dataset itself: a person reads and enters anything new.
+# changes the dataset itself: Claude reads anything new and enters it.
 name: watch
 
 on:
