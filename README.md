@@ -1,8 +1,8 @@
 <p>
   <a href="https://clinx.org">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VVillBerchtold/clinx-org/main/public/brand/clinx-wordmark-on-dark.svg">
-      <img src="https://raw.githubusercontent.com/VVillBerchtold/clinx-org/main/public/brand/clinx-wordmark-on-light.svg" alt="ClinX" height="28">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WillBerchtold/clinx-org/main/public/brand/clinx-wordmark-on-dark.svg">
+      <img src="https://raw.githubusercontent.com/WillBerchtold/clinx-org/main/public/brand/clinx-wordmark-on-light.svg" alt="ClinX" height="28">
     </picture>
   </a>
 </p>
@@ -173,8 +173,8 @@ If a figure here does not match the filing it cites, please open an issue that n
 | Repository | What it is |
 |---|---|
 | clinx-340b (you are here) | The dataset |
-| [clinx-radar](https://github.com/VVillBerchtold/clinx-radar) | A small tool that reports what changed in the federal 340B registry |
-| [clinx-org](https://github.com/VVillBerchtold/clinx-org) | The website, [clinx.org](https://clinx.org), which shows this dataset and never changes a figure |
+| [clinx-radar](https://github.com/WillBerchtold/clinx-radar) | A small tool that reports what changed in the federal 340B registry |
+| [clinx-org](https://github.com/WillBerchtold/clinx-org) | The website, [clinx.org](https://clinx.org), which shows this dataset and never changes a figure |
 
 ## Licence
 
